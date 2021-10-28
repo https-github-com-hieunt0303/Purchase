@@ -135,7 +135,6 @@
 .purchase-info__process-item{
     display: flex;
     justify-items: center;
-    align-items: center;
     margin-bottom: 48px;
 }
 .purchase-info__process-item:last-child{
@@ -143,8 +142,6 @@
 }
 .purchase-info__process-item-circle{
     position: relative;
-    width: 60px;
-    height: 60px;
     border: 1px solid var(--primary-color);
     border-radius: 50%;
     display: flex;
@@ -152,6 +149,13 @@
     align-items: center;
     justify-content: center;
     margin-right: 32px;
+}
+.icon{
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .purchase-info__process-item-circle-icon{
     font-size: 2rem;
@@ -187,6 +191,7 @@
 }
 
 .purchase-info__process-item-info{
+    margin-top: 4px;
     font-size: 1.6rem;
     line-height: 1.6rem;
     font-weight: 400;

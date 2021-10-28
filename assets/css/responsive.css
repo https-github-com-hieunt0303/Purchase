@@ -15,6 +15,10 @@
     .purchase-info__process-item-info{
         font-size: 1.2rem;
     }
+    .icon{
+        width: 40px;
+        height: 40px;
+    }
     .purchase-info__voucher-Promo-btn,
     .purchase-info__voucher-Promo-input{
         font-size: 1.2rem;
