@@ -22,7 +22,10 @@
     .purchase-info__voucher-Promo-btn,
     .purchase-info__voucher-Promo-input{
         font-size: 1.2rem;
-        padding: 10px 16px;
+        padding: 8px 8px;
+    }
+    .purchase-info__voucher-Promo-btn{
+        margin-left: 8px;
     }
     .purchase-info__payment-item{
         padding: 8px 0;
