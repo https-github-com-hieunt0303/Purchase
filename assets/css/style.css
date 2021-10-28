@@ -82,7 +82,7 @@
 .purchase-info__voucher-Promo-btn{
     font-size: 1.4rem;
     line-height: 1.4rem;
-    font-weight: 400;
+    font-weight: 500;
     margin-left: 16px;
     color: var(--white-color);
     background-color: var(--primary-color);
@@ -151,6 +151,7 @@
     justify-items: center;
     align-items: center;
     justify-content: center;
+    margin-right: 32px;
 }
 .purchase-info__process-item-circle-icon{
     font-size: 2rem;
@@ -186,7 +187,6 @@
 }
 
 .purchase-info__process-item-info{
-    margin-left: 32px;
     font-size: 1.6rem;
     line-height: 1.6rem;
     font-weight: 400;
